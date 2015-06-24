@@ -1,0 +1,2 @@
+/Users/andymontes/Documents/IONIC/myMobileApp/platforms/android/build/intermediates/classes/debug
+/Users/andymontes/Documents/IONIC/myMobileApp/platforms/android/build/intermediates/pre-dexed/debug/classes-35029acb129dd95b7d9ed7017b4c9c03622b8e7e.jar

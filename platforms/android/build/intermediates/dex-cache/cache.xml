@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/andymontes/Documents/IONIC/myMobileApp/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="426b52a944b214dcb46602684fe025392ade1cb4">
+        <dex dex="/Users/andymontes/Documents/IONIC/myMobileApp/platforms/android/build/intermediates/pre-dexed/debug/classes-35029acb129dd95b7d9ed7017b4c9c03622b8e7e.jar" />
+    </item>
+
+</items>
